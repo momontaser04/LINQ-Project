@@ -1,0 +1,14 @@
+E:\mohamed\الاكواد\LProject\LProject\obj\Debug\net8.0\LProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\الاكواد\LProject\LProject\obj\Debug\net8.0\LProject.AssemblyInfoInputs.cache
+E:\mohamed\الاكواد\LProject\LProject\obj\Debug\net8.0\LProject.AssemblyInfo.cs
+E:\mohamed\الاكواد\LProject\LProject\obj\Debug\net8.0\LProject.csproj.CoreCompileInputs.cache
+E:\mohamed\الاكواد\LProject\LProject\bin\Debug\net8.0\LProject.exe
+E:\mohamed\الاكواد\LProject\LProject\bin\Debug\net8.0\LProject.deps.json
+E:\mohamed\الاكواد\LProject\LProject\bin\Debug\net8.0\LProject.runtimeconfig.json
+E:\mohamed\الاكواد\LProject\LProject\bin\Debug\net8.0\LProject.dll
+E:\mohamed\الاكواد\LProject\LProject\bin\Debug\net8.0\LProject.pdb
+E:\mohamed\الاكواد\LProject\LProject\obj\Debug\net8.0\LProject.dll
+E:\mohamed\الاكواد\LProject\LProject\obj\Debug\net8.0\refint\LProject.dll
+E:\mohamed\الاكواد\LProject\LProject\obj\Debug\net8.0\LProject.pdb
+E:\mohamed\الاكواد\LProject\LProject\obj\Debug\net8.0\LProject.genruntimeconfig.cache
+E:\mohamed\الاكواد\LProject\LProject\obj\Debug\net8.0\ref\LProject.dll
